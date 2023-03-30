@@ -38,7 +38,7 @@
         "nombre": "Elección nueva Constitución",
         "comentarios": null,
         "fecha": "2023-05-07",
-        "irrenunciable": null,
+        "irrenunciable": "0",
         "tipo":"Civil"
     },
     {
@@ -117,6 +117,13 @@
         "fecha": "2023-12-08",
         "irrenunciable": "0",
         "tipo": "Religioso"
+    },
+    {
+        "nombre": "Plebiscito de salida",
+        "comentarios": null,
+        "fecha": "2023-12-17",
+        "irrenunciable": "0",
+        "tipo":"Civil"
     },
     {
         "nombre": "Navidad",
